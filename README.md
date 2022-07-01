@@ -4,4 +4,4 @@
 
 Технологии: проект написан с помощью grid-layout, BEM
 
-Cсылка на GitHub pages:
+Cсылка на GitHub pages: https://github.com/AlinaKhrabrova/russian-travel.github.io
