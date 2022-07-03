@@ -1,5 +1,7 @@
 .intro__number {
   display: inline-block;
+  font-family: "Inter";
+  font-style: normal;
   font-weight: 400;
   margin: 0;
 }

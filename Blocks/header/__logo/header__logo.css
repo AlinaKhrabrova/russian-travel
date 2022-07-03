@@ -8,7 +8,6 @@
   .header__logo {
     width: 142px;
     height: 42px;
-    left: 16px;
-    top: 16px;
+    margin-top: 5px;
   }
 }

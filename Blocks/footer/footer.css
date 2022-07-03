@@ -14,3 +14,12 @@
     margin: 88px auto 24px;
   }
 }
+
+@media screen and (max-width: 320px) {
+  .footer {
+    flex-direction: column;
+    width: 100%;
+    margin: 64px 0 0;
+
+  }
+}

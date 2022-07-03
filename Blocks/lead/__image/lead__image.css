@@ -1,6 +1,18 @@
 .lead__image {
-  width: 984px;
-  height: 615px;
-  left: 148px;
-  top: 504px;
+  width: 100%;
+}
+
+/* 768 */
+@media screen and (max-width: 768px) {
+  .lead__image {
+    width: calc(100% - 48px);
+  }
+}
+
+
+/* 320 */
+@media screen and (max-width: 320px) {
+  .lead__image {
+    width: calc(100% - 32px);
+  }
 }
