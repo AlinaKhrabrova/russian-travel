@@ -7,8 +7,6 @@
 /* 320 */
 @media screen and (max-width: 320px) {
   .places__image {
-    width: calc(100% - 32px);
-    margin: 16px auto;
     grid-column: 1;
     grid-row: 3;
   }
