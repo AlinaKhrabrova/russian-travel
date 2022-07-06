@@ -1,4 +1,7 @@
 .intro__list {
+  font-family: "Inter", "Arial", sans-serif;
+  font-style: normal;
+  font-weight: 700;
   list-style: none;
   color: white;
   margin-bottom: 0;

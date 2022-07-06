@@ -2,15 +2,11 @@
   margin-right: 16px;
 }
 
-.footer__link-container:last-of-type {
-  margin-right: 0;
-}
-
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 713px) {
   .footer__link-container {
     margin-right: 0;
     margin-bottom: 32px;
-    margin-left: 10px;
+    margin-left: 16px;
   }
 }
 
@@ -18,7 +14,7 @@
   margin-right: 0;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 713px) {
   .footer__link-container:last-of-type {
     margin-right: 0;
     margin-bottom: 48px;
